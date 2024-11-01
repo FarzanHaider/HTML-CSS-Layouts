@@ -1,0 +1,521 @@
+.main{
+    position: relative;
+    height: 1000px;
+    width: 850px;
+    background-color: rgb(255, 251, 246);
+    border: 1px solid black;
+}
+.header{
+    position: absolute;
+    width: 820px;
+    height: 40px;
+    background-color: rgb(31, 30, 30);
+     margin-top: 10px;
+    margin-left: 15px;
+}
+.forminput{
+    position: absolute;
+    margin-left: 590px;
+    margin-top: 10px;
+}
+.searchbutton button{
+    position: absolute;
+     margin-left: 764px;
+    margin-top: 10px ; 
+    cursor: pointer;
+    background-color: rgb(78, 187, 255);
+    
+
+}
+.searchbutton h1{
+    position: absolute;
+    height: 20px;
+    
+    
+}
+.header h2{
+    position: absolute;
+    color: white;
+    font-size: small;
+    margin-left: 10px;
+}
+.header h3{
+    position: absolute;
+    color: white;
+    font-size: xx-small;
+    margin-left: 160px;
+    margin-top: 12px; 
+    
+}
+h4{
+    position: absolute;
+    color: white;
+    font-size: xx-small;
+    margin-left: 110px; 
+   
+}
+.div1{
+    position: absolute;
+    height: 180px;
+    width:170px ;
+    margin-top: 70px;
+    margin-left: 10px;
+    background-color: rgb(216, 214, 214);
+}
+
+.div1 h1{
+    position: absolute;
+    font-size: x-small;
+    color: rgb(160, 160, 160);
+    margin-left: 55px;
+    margin-top: 80px;
+}
+.div2{
+    position: absolute;
+    height: 180px;
+    width:170px ;
+    margin-top: 70px;
+    margin-left: 230px;
+    background-color: rgb(216, 214, 214);
+}
+
+.div2 h1{
+    position: absolute;
+    font-size: x-small;
+    color: rgb(160, 160, 160);
+    margin-left: 55px;
+    margin-top: 80px;
+}
+.div3{
+    position: absolute;
+    height: 180px;
+    width:170px ;
+    margin-top: 70px;
+    margin-left: 450px;
+    background-color: rgb(216, 214, 214);
+}
+
+.div3 h1{
+    position: absolute;
+    font-size: x-small;
+    color: rgb(160, 160, 160);
+    margin-left: 55px;
+    margin-top: 80px;
+}
+.div4{
+    position: absolute;
+    height: 180px;
+    width:170px ;
+    margin-top: 70px;
+    margin-left: 665px;
+    background-color: rgb(216, 214, 214);
+}
+
+.div4 h1{
+    position: absolute;
+    font-size: x-small;
+    color: rgb(160, 160, 160);
+    margin-left: 55px;
+    margin-top: 80px;
+}
+
+.div01{
+    
+    position: absolute;
+    height: 50px;
+    width:170px ;
+    margin-top: 250px;
+    margin-left: 10px;
+    background-color: rgb(231, 231, 231);
+    
+}
+.div01 h1{
+    position: absolute;
+    color: black;
+    font-size:x-small;
+    font-weight: 300;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.div02{
+    
+    position: absolute;
+    height: 50px;
+    width:170px ;
+    margin-top: 250px;
+    margin-left: 230px;
+    background-color: rgb(231, 231, 231);
+    
+}
+.div02 h1{
+    position: absolute;
+    color: black;
+    font-size: x-small;
+    font-weight: 300;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.div03{
+    
+    position: absolute;
+    height: 50px;
+    width:170px ;
+    margin-top: 250px;
+    margin-left: 450px;
+    background-color: rgb(231, 231, 231);
+    
+}
+.div03 h1{
+    position: absolute;
+    color: black;
+    font-size: x-small;
+    font-weight: 300;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.div04{
+    
+    position: absolute;
+    height: 50px;
+    width:170px ;
+    margin-top: 250px;
+    margin-left: 665px;
+    background-color: rgb(231, 231, 231);
+    
+}
+.div04 h1{
+    position: absolute;
+    color: black;
+    font-size: x-small;
+    font-weight: 300;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.div5{
+    position: absolute;
+    height: 180px;
+    width: 530px;
+    background-color: rgb(231, 231, 231);
+    margin-top: 310px;
+    margin-left: 10px;
+
+}
+.div5 h1{
+    position: absolute;
+    font-size: medium;
+    margin-left: 15px;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.div5 h2{
+    position: absolute;
+    font-size: small;
+    width: 250px;
+    margin-top: 70px;
+    margin-left: 15px;
+}
+.div5 h3{
+    position: absolute;
+    font-size: xx-small;
+    width:160px;
+    margin-left: 350px;
+    margin-top: 20px;
+    font-weight: 300;
+}
+h1{position: absolute;
+    margin-left: 570px;
+    font-size: medium;
+    margin-top: 320px;
+
+}
+hr{
+    position: absolute;
+    width: 250px;
+    margin-left: 570px;
+    margin-top:345px ;
+}
+.div6{
+    position: absolute;
+    height: 40px;
+    width: 260px;
+    background-color: rgb(23, 133, 202) ;
+    margin-left: 570px;
+    margin-top: 360px;
+
+    
+}
+.div7{
+    position: absolute;
+    height: 40px;
+    width: 260px;
+    background-color: rgb(23, 133, 202) ;
+    margin-left: 570px;
+    margin-top: 420px;
+
+    
+}
+.div8{
+    position: absolute;
+    height: 250px;
+    width:320px ;
+    margin-top: 500px;
+    margin-left: 10px;
+    background-color: rgb(216, 214, 214);
+}
+.div8 h1{
+    position: absolute;
+    color:gray ;
+    margin-top: 100px;
+    font-size: xx-large;
+    margin-left: 120px;
+}
+.div11{
+    position: absolute;
+    position: absolute;
+    height: 140px;
+    width:140px ;
+    margin-top: 500px;
+    margin-left: 360px;
+    background-color: rgb(216, 214, 214);
+}
+.div11 h1{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 50px;
+    color: rgb(163, 163, 163);
+}
+.div22{
+    position: absolute;
+    height: 140px;
+    width:140px ;
+    margin-top: 500px;
+    margin-left: 520px;
+    background-color: rgb(216, 214, 214);
+}
+.div22 h1{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 50px;
+    color: rgb(163, 163, 163);
+}
+.div33{
+    position: absolute;
+    height: 140px;
+    width:140px ;
+    margin-top: 500px;
+    margin-left: 680px;
+    background-color: rgb(216, 214, 214);
+}
+.div33 h1{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 50px;
+    color: rgb(163, 163, 163);
+}
+.div44{
+    position: absolute;
+    height: 140px;
+    width:140px ;
+   margin-top: 750px;
+   margin-left:360px ;
+    background-color: rgb(216, 214, 214);  
+}
+.div44 h1{
+
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 50px;
+    color: rgb(163, 163, 163);
+
+}
+.div55{
+    position: absolute;
+    height: 140px;
+    width:140px ;
+   margin-top: 750px;
+   margin-left:520px ;
+    background-color: rgb(216, 214, 214); 
+}
+.div55 h1{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 50px;
+    color: rgb(163, 163, 163);
+
+
+}
+.div66{
+    position: absolute;
+    height: 140px;
+    width:140px ;
+   margin-top: 750px;
+   margin-left:680px ;
+    background-color: rgb(216, 214, 214);
+}
+.div66 h1{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 50px;
+    color: rgb(163, 163, 163);
+
+}
+.div08{
+    position: absolute;
+    height: 160px;
+    width:320px ;
+    margin-top: 750px;
+    margin-left: 10px;
+    background-color: rgb(231, 231, 231) ;
+}
+.div08 h2{
+position: absolute;
+font-size: small;
+margin-top: 80px;
+margin-left: 30px;
+width: 250px;
+}
+.div08 h1{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: x-large;
+
+}
+.div011{
+    position: absolute;
+    height: 60px;
+    width:140px ;
+    margin-top: 640px;
+    margin-left: 360px;
+    background-color: rgb(231, 231, 231) ;
+}
+.div022{
+    position: absolute;
+    height: 60px;
+    width:140px ;
+    margin-top: 640px;
+    margin-left: 520px;
+    background-color: rgb(231, 231, 231) ;
+}
+.div033{
+    position: absolute;
+    height: 60px;
+    width:140px ;
+    margin-top: 640px;
+    margin-left: 680px;
+    background-color: rgb(231, 231, 231) ; 
+}
+.div044{
+    position: absolute;
+    height: 60px;
+    width:140px ;
+    margin-top: 890px;
+    margin-left: 360px;
+    background-color: rgb(231, 231, 231) ;
+}
+.div055{
+    position: absolute;
+    height: 60px;
+    width:140px ;
+    margin-top: 890px;
+    margin-left: 520px;
+    background-color: rgb(231, 231, 231) ;
+}
+.div066{
+    position: absolute;
+    height: 60px;
+    width:140px ;
+    margin-top: 890px;
+    margin-left: 680px;
+    background-color: rgb(231, 231, 231) ;
+}
+.div011 h1{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.div011 h2{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: small;
+    color: rgb(170, 170, 170);
+}
+.div022 h1{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.div022 h2{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: small;
+    color: rgb(170, 170, 170);
+}
+.div033 h1{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.div033 h2{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: small;
+    color: rgb(170, 170, 170);
+}
+.div044 h1{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.div044 h2{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: small;
+    color: rgb(170, 170, 170);
+}
+.div055 h1{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.div055 h2{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: small;
+    color: rgb(170, 170, 170);
+}
+.div066 h1{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.div066 h2{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: small;
+    color: rgb(170, 170, 170);
+}
+.div9{
+   
+    position: absolute;
+    height: 30px;
+    width: 320px;
+    background-color: rgb(23, 133, 202) ;
+    margin-left: 10px;
+    margin-top: 915px;
+}
+.div9 h1{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 5px;
+    color: white;
+    font-size: small;
+}
+

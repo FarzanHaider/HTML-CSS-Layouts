@@ -1,0 +1,211 @@
+.container{
+    position: relative;
+    background-color: black;
+    height: 1900px;
+    width: 800px;
+    padding: 10px;
+
+}
+img{
+    position: absolute;
+    height: 300px;
+    width: 710px;
+    
+}
+.imagetext h1{
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.imagetext h2{
+position: absolute;
+color: white;
+font-size: xx-small;
+background-color: rgb(232, 0, 253);
+margin-left: 55px;
+margin-top: 103px;
+}
+.imagetext h3{
+position: absolute;
+color: white;
+font-size: xx-small;
+margin-left: 50px;
+margin-top: 160px;
+width: 650px;
+}
+/* =======container2========== */
+.container2{
+    position: absolute;
+    height: 1580px;
+    width: 710px ;
+    background-color: white;
+    margin-top: 300px;
+}
+ul{
+    
+    position: absolute;
+    color: white;
+    list-style: none;
+    display: inline-flex;
+    color: black;
+    font-size: small;
+    margin-top: 0;
+    margin-left: 140px;
+ 
+}
+li{
+    padding-left: 10px;
+}
+h1{
+    position: absolute;
+    font-size: small;
+    margin-top: 0;
+    margin-left: 70px;
+}
+h2{
+    position: absolute;
+    font-size: small;
+    margin-top: 0;
+    margin-left: 490px;
+    background-color: purple;
+    color: white;
+}
+/* ==========nav bar end============== */    
+video{
+    margin-top: 50px;
+    margin-left: 70px;
+    width: 160px;
+    height: auto;
+    position: absolute
+   }
+   .section1text{
+    position: absolute;
+    width: 400px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 250px;
+   }
+   .section1text h1{
+    position: absolute;
+    color: rgb(168, 0, 168);
+    margin-left:0;
+    font-size: medium;
+
+   }
+
+  .section1text h2{
+    position: absolute;
+    font-size: xx-small;
+    margin-left: 0;
+    margin-top: 17px;
+    background-color: white;
+    color: rgb(148, 148, 148);
+    font-weight: 400;
+    
+  }
+  .section1text p{
+    font-size: xx-small;
+    width: 300px;
+    margin-top: 30px;
+    font-weight: 300;
+}
+.section1text h3{
+    position: absolute;
+    color: rgb(168, 0, 168);
+    margin-left:0;
+    font-size: medium;
+    font-weight: 300;
+margin-top: -5px;
+}
+.section1text h4{
+    font-weight: 300;
+    font-size: x-small;
+    padding: 10px;
+}
+/* }==========section2 start============ */
+
+.section2 h1{
+    background-color: rgb(168, 0, 168);;
+    margin-top: 180px;
+    color: white;
+    font-weight: 300;
+    font-size: small;
+    padding: 1px;
+}
+.icon{
+   position: absolute;
+    margin-left: 50px;
+   
+    border: 1px solid black;
+    
+}
+.icon ul{
+    position: absolute;
+    list-style: none;
+    display: inline-flex;
+    margin-top: 160px;
+    margin-left: -70px;
+    
+}
+.icon li{
+    
+    padding: 60px;
+}
+.icon li h1{
+    position: absolute;
+    color: black;
+    background-color: rgba(0, 255, 255, 0);
+    width: 100px;
+    margin-top: -20px;
+    margin-left: 10px;
+}
+.icon2{
+    position: absolute;
+     margin-left: 50px;
+    
+     border: 1px solid black;
+     
+ }
+ .icon2 ul{
+     position: absolute;
+     list-style: none;
+     display: inline-flex;
+     margin-top: 200px;
+     margin-left: -120px;
+     
+ }
+ .icon2 li{
+     
+     padding: 60px;
+ }
+ .icon2 li h1{
+     position: absolute;
+     color: black;
+     background-color: rgba(0, 255, 255, 0);
+     width: 100px;
+     margin-top: -20px;
+     margin-left: 20px;
+ }
+.ul1 ul{
+    
+    display: inline-flex;
+    margin-top: 300px;
+    margin-left: 20px;
+    
+}
+.ul1 ul li{
+    
+    padding: 10px;
+   
+}
+.section2 h2{
+    margin-top: 310px;
+    margin-left: -20px;
+    width: 100px;
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(209, 0, 209);
+    font-weight: 300px;
+}
+

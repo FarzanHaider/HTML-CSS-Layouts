@@ -1,0 +1,255 @@
+*{
+    font-family: 'Roboto', sans-serif; 
+}
+.header{
+    height: 195px;
+    width: 750px;
+    position: relative;
+    color: white;
+    background-color: rgb(4, 4, 48);
+    margin-top: -20px;
+}
+h5{
+    margin-left: 70px;
+    margin-top: 10px;
+    position: absolute;
+   height: 10px;
+   font-size: x-small;
+}
+h3{
+    margin-left: 70px;
+    margin-top: 50px;
+    position: absolute;
+}
+h6{
+    margin-left: 70px;
+    margin-top: 92px;
+    position: absolute;
+    width: 400px;
+    font-size: xx-small;
+    color: rgb(167, 163, 163);
+   
+}
+
+h4 button{
+    background-color: blue;
+    color: white;
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 125px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.placeholder{
+    height: 95px;
+    width: 250px;
+    position: absolute;
+    background-color: grey;
+    margin-left: 390px;
+    margin-top: 50px;
+}
+.heading{
+    margin-left: 55px;
+    margin-top: 40px;
+    font-size: xx-small;
+}
+ul{
+    position: absolute;
+    list-style: none;
+   font-size: xx-small;
+   display: inline-flex;
+   margin-left: 360px;
+   color:rgb(167, 163, 163) ;
+}
+.li1{
+    margin-left: 100px;
+    position: absolute;
+    width: 100px;
+}
+.li2{
+    margin-left: 177px;
+    position: absolute;
+    width: 100px;
+}
+.li3{
+    margin-left: 27px;
+    position: absolute;
+    width: 100px;
+}
+.informationbox{
+    height: 195px;
+    width: 750px;
+    background-color: (rgb(240, 240, 240));
+    
+    position: absolute;
+}
+.informationbox h1{
+    font-size: medium;
+    margin-left: 260px;
+    position: absolute;
+    font-weight: 800;
+}
+.box1{
+    height: 70px;
+    width: 70px;
+    margin-top: 40px;
+    margin-left: 480px;
+    position: absolute;
+    border-radius: 10px;
+    background-color: white;
+    border: 2px solid rgb(93, 93, 255);
+}
+.box2{
+    height: 70px;
+    width: 70px;
+    margin-top: 40px;
+    margin-left: 380px;
+    position: absolute;
+    border-radius: 10px;
+    background-color: white;
+    border: 2px solid rgb(93, 93, 255);
+}
+.box3{
+    height: 70px;
+    width: 70px;
+    margin-top: 40px;
+    margin-left: 280px;
+    position: absolute;
+    border-radius: 10px;
+    background-color: white;
+    border: 2px solid rgb(93, 93, 255); 
+}
+.box4{
+    height: 70px;
+    width: 70px;
+    margin-top: 40px;
+    margin-left: 180px;
+    position: absolute;
+    border-radius: 10px;
+    background-color: white;
+    border: 2px solid rgb(93, 93, 255); 
+}
+.unorderedlist{
+    position: absolute;
+    display: inline-flex;
+    color: black;
+}
+.unorderedlist h6{
+    color: rgb(77, 77, 77);
+    margin-left: -235px;
+    margin-top: 110px;
+    position: absolute;
+    font-size: xx-small;
+    width: 100px;
+    text-align: center;
+}
+.unorderedlist h5{
+    color: rgb(77, 77, 77);
+    margin-left: -135px;
+    margin-top: 110px;
+    position: absolute;
+    font-size: xx-small;
+    width: 100px;
+    text-align: center;
+}
+.unorderedlist h4{
+    color: rgb(77, 77, 77);
+    margin-left: -35px;
+    margin-top: 110px;
+    position: absolute;
+    font-size: xx-small;
+    width: 100px;
+    text-align: center;
+}
+.unorderedlist h3{
+    color: rgb(77, 77, 77);
+    margin-left: 70px;
+    margin-top: 110px;
+    position: absolute;
+    font-size: xx-small;
+    width: 100px;
+    text-align: center;
+}
+.quotationbox{
+    height: 195px;
+    width: 750px;
+    position: absolute;
+    
+    background-color: rgb(209, 209, 209);
+    margin-top: 197px;
+}
+.quotationbox p{
+     margin-top: 60px;
+     margin-left: 180px;
+     font-size: medium;
+     font-style: italic;
+     position: absolute;
+     
+}
+.quotationbox h2{
+    position: absolute;
+    font-weight: 900;
+    font-size: x-small;
+    margin-top: 130px;
+    margin-left: 390px;
+}
+.actionbar{
+    height: 165px;
+    width: 750px;
+    position: absolute;  
+    background-color: (rgb(240, 240, 240));
+    margin-top: 390px;
+}
+.signupbox{
+    height: 65px;
+    width: 550px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 90px;
+    background-color: rgb(78, 78, 245);
+}
+.signupbox p{
+    color: white;
+    font-size: small;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.signupbox h6{
+    color: white;
+    margin-top: -14px;
+    margin-left: 58px;
+   font-weight: 100;
+}
+.signupbox button{
+    background-color:rgb(78, 78, 245) ;
+    color: white;
+    border: 1px solid white;
+    border-radius: 4px;
+    position: absolute;
+    margin-left: 450px;
+    margin-top: -20px;
+    cursor: pointer;
+}
+.footer{
+    height: 30px;
+    width: 750px;
+    position: absolute;
+    background-color: rgb(4, 4, 48);
+    margin-top: 550px;
+    margin-left:-8px ;
+}
+.footer p{
+    text-align: center;
+    color: white;
+    font-size: x-small;
+}
+/* .ul01{
+position: absolute;
+display: inline-flex;
+}
+.classli10{
+    margin: 20px;
+} */
+.list2 li{
+    margin-right: 0;
+}

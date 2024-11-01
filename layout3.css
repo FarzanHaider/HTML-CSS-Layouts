@@ -1,0 +1,111 @@
+*{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+.parent{
+    height: 460px;
+    width: 790px;
+    background-color: rgb(243, 177, 177);
+    border: 1px solid black;
+    position: relative;
+}
+.header{
+    height: 50px;
+    width: 770px;
+    text-align: center;
+    background-color: rgb(171, 237, 240);
+    color: aliceblue;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.header h3{
+    margin-top: 3px;
+
+}
+.aside{
+    height: 320px;
+    width: 200px;
+    background-color: rgb(16, 148, 165);
+    color: aliceblue;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 70px;
+    text-align: center;
+
+}
+
+.aside h3{
+    margin-top: 130px;
+}
+.Article{
+    height:320px ;
+    width: 550px;
+    background-color: rgb(255, 73, 73);
+    color: aliceblue;
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 70px;
+    text-align: center;
+    
+}
+.Article h3{
+    margin-top: 130px;
+}
+
+.footer{
+    height: 50px;
+    width: 770px;
+    background-color:rgb(171, 237, 240); 
+    color: aliceblue;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 400px;
+    position: absolute;
+
+}
+.footer h4{
+    margin-top: 8px;
+}
+.image{
+   height: 140px;
+   width: 150px;
+    background-color: rgb(190, 190, 190);
+    color: aliceblue;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 240px;
+    text-align: center;
+}
+.image h3{
+    margin-top: 50px;
+}
+.imagee{
+    height: 140px;
+   width: 150px;
+    background-color: rgb(190, 190, 190);
+    color: aliceblue;
+    position: absolute;
+    margin-left: 425px;
+    margin-top: 240px;
+    text-align: center;
+}
+.imagee h3{
+    margin-top: 50px;
+}
+.imageee{
+    height: 140px;
+    width: 150px;
+     background-color: rgb(190, 190, 190);
+     color: aliceblue;
+     position: absolute;
+     margin-left: 595px;
+     margin-top: 240px;
+     text-align: center;
+}
+.imageee h3{
+    margin-top: 50px;
+}
+

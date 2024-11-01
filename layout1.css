@@ -1,0 +1,39 @@
+.Header{
+    height: 70px;
+    width: 90.3vw;
+    border: 1px solid black;
+    text-align: center;
+}
+.nav{
+    height: 70px;
+    width: 90.3vw;
+    border: 1px solid black;
+    text-align: center;
+}
+.ind{
+    height: 300px;
+    width: 10.1vw;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+.ind h2{
+    margin-top: 150px;
+}
+.cs{
+    height: 300px;
+    width:80vw ;
+    border: 1px solid black;
+    margin-left: 140px;
+    margin-top: -303px;
+    text-align: center;
+}
+.cs h2{
+    margin-top: 150px;
+}
+.fs{
+    height: 100px;
+    width: 90.3vw;
+    border: 1px solid black;
+    text-align: center;
+}
